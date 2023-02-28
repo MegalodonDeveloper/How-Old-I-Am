@@ -1,0 +1,65 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x:hidden; 
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 20px;color: #ECF9FF;
+}
+#Orginal-Cha{
+    background: #183A1D;
+}
+.devOrg-cha{
+    padding: 1% 15% 3%;text-align: center;
+}
+h1{
+    background: none;
+    text-align: center;
+    font-size: 4.2rem;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.dev-gender{
+    width: 100%;background: none;margin: 10px 0 10px;
+}
+.gender{
+    width: 25%;margin: 0 auto;text-align: center;font-weight: 600;
+}
+.gender option{
+    font-weight: 600;
+}
+.birth{
+    width: 19%;display: inline-block;margin: 12px 2px 0px;text-align: center;font-weight: 600;
+}
+.birth option{
+    font-weight: 600;
+}
+.btn-dev{
+    width: 100%;background: none;text-align: right;margin: 0px 0px 10px;
+}
+.btn-dev .btn{
+    padding: 7px 30px 8px;font-weight: 600;margin: 5px 48px 0px 0px;
+}
+.textarea-dev{
+    background: none;width: 100%;padding: 5px;
+}
+.textarea-dev p{
+    width: 75%;height: 205px;resize: none;background: white;margin: 0 auto;text-align: left;
+    padding: 8.5px;font-weight: 600;font-size: 1.04rem;line-height: 2.2;
+}
+.btn_1-dev{
+    width: 100%;background: none;
+}
+.btn_1-dev .btn{
+    padding: 10px 35px 11px;font-weight: 600;margin: 7px 5px 5px;
+}
+.note{
+    color: #183A1D;
+}
+.hazard{
+    color: rgb(211, 34, 34);font-weight: 600;
+}
