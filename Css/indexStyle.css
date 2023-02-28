@@ -63,3 +63,8 @@ h1{
 .hazard{
     color: rgb(211, 34, 34);font-weight: 600;
 }
+@media (max-width:680px){
+    .devOrg-cha{
+        padding: 1% 3% 3%;text-align: center;
+    }
+}
