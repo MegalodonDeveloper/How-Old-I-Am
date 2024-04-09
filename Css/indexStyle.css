@@ -3,18 +3,15 @@ body{
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x:hidden; 
+    overflow-x:hidden; background: #183A1D;
 }
 .navbar-brand{
     font-size: 2rem;
     font-weight: bold;
     margin-left: 20px;color: #ECF9FF;
 }
-#Orginal-Cha{
-    background: #183A1D;
-}
 .devOrg-cha{
-    padding: 1% 15% 3%;text-align: center;
+    padding: 1% 15% 3%;text-align: center;margin-top: 60px;
 }
 h1{
     background: none;
